@@ -4,34 +4,34 @@
         "model": "SM-S928B",
         "csc": "XXV",
         "version": "Server Error",
-        "time": "05/06/2026 07:02"
+        "time": "05/06/2026 11:20"
     },
     {
         "name": "S24 Ultra (Test EU)",
         "model": "SM-S928B",
         "csc": "EUX",
         "version": "Server Error",
-        "time": "05/06/2026 07:02"
+        "time": "05/06/2026 11:20"
     },
     {
         "name": "Tab S9 Ultra",
         "model": "SM-X910",
         "csc": "XXV",
         "version": "Server Error",
-        "time": "05/06/2026 07:02"
+        "time": "05/06/2026 11:20"
     },
     {
         "name": "Z Fold 5",
         "model": "SM-F946B",
         "csc": "XXV",
         "version": "Server Error",
-        "time": "05/06/2026 07:02"
+        "time": "05/06/2026 11:20"
     },
     {
         "name": "Galaxy A55",
         "model": "SM-A556E",
         "csc": "XXV",
         "version": "Server Error",
-        "time": "05/06/2026 07:02"
+        "time": "05/06/2026 11:20"
     }
 ]
